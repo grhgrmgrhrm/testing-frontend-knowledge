@@ -1,1 +1,10 @@
-# testing-frontend-knowledge
+<h1>Готовимся к собеседованию на Frontend разработчика</h1>
+Это приложение на React для тестирования знаний по CSS, HTML, JavaScript. <br>
+В планах добавить вопросов по JS, React, Next.js, Git и много чего еще.  <br>
+
+
+Для запуска на локальной машине, введите следующие команды:
+```sh
+yarn install
+yarn start
+```
